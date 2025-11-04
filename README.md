@@ -1,4 +1,4 @@
-~COME JOIN US IN OUR [DISCORD COMMUNITY](https://discord.com/invite/uhkxjDpJsN)~
+COME JOIN US IN OUR [DISCORD COMMUNITY](https://discord.com/invite/uhkxjDpJsN)
 
 
 
@@ -6,20 +6,23 @@
 
 Follow these steps to run the project locally:
 
+
 1️⃣ Clone this repository
 ```git clone <your-repo-url>```
 ```cd <your-project-folder>```
+
+
 2️⃣ Install dependencies
 ```npm install```
+
 
 3️⃣ Start the backend server
 ```node server.js```
 
 
-(Skip this if your project doesn’t include a server.)
-
 4️⃣ Run the frontend (Vite)
 ```npm run dev```
+
 
 
 Then open the local URL shown in your terminal — usually:
