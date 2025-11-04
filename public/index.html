@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Agora RTC + RTM Demo</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div id="app">
+    <h1>Agora RTM + RTC Sample</h1>
+
+    <!-- Controls -->
+    <div id="control-panel">
+      <input type="text" id="channelName" placeholder="Channel Name" />
+      <input type="text" id="userId" placeholder="User ID" />
+      <button id="joinBtn">Join</button>
+      <button id="leaveBtn">Leave</button>
+    </div>
+
+    <!-- Video Container -->
+    <div id="video-container">
+      <div id="local-player" class="video-box" data-uid="Local"></div>
+    </div>
+
+    <!-- Chat Section -->
+    <div id="chat-container">
+      <h2>Chat Room</h2>
+      <div id="chat-display"></div>
+      <input type="text" id="chat-input" placeholder="Type message..." />
+      <button id="send-btn">Send</button>
+    </div>
+  </div>
+
+  <!-- Load local SDKs -->
+  <script src="./libs/AgoraRTC_N-4.24.0.js"></script>
+  <script src="./libs/agora-rtm-2.2.2.min.js"></script>
+
+  <!-- Combined RTC + RTM -->
+  <script src="./main.js"></script>
+</body>
+</html>
