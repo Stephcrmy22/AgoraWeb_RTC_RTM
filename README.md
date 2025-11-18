@@ -8,26 +8,25 @@ Follow these steps to run the project locally:
 
 
 1️⃣ Clone this repository
-```git clone <your-repo-url>```
-```cd <your-project-folder>```
+````git clone <your-repo-url>````
+
+````cd <your-project-folder>````
 
 
 2️⃣ Install dependencies
-```npm install```
+````npm install````
 
 
 3️⃣ Start the backend server
-```node server.js```
+````node server.js````
 
 
 4️⃣ Run the frontend (Vite)
-```npm run dev```
+````npm run dev````
 
 
 
-Then open the local URL shown in your terminal — usually:
-
-http://localhost:5173
+Then open the local URL shown in your terminal
 
 💬 Support
 
