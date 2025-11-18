@@ -1,6 +1,7 @@
 COME JOIN US IN OUR [DISCORD COMMUNITY](https://discord.com/invite/uhkxjDpJsN)
 
-
+Prerequisites:
+1. Agora Account
 
 🛠️ Installation & Setup
 
