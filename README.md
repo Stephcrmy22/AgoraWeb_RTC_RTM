@@ -9,7 +9,9 @@ Follow these steps to run the project locally:
 
 1️⃣ Clone this repository 
 
-```git clone <your-repo-url> /n cd <your-project-folder>```
+```git clone <your-repo-url>```
+
+```cd <your-project-folder>```
 
 
 2️⃣ Install dependencies
