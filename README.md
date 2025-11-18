@@ -1,7 +1,7 @@
-COME JOIN US IN OUR [DISCORD COMMUNITY](https://discord.com/invite/uhkxjDpJsN)
+COME JOIN US IN OUR [DISCORD COMMUNITY](https://discord.gg/A894S4gYYx)
 
 Prerequisites:
-1. Agora Account
+1. [Agora Account](https://console.agora.io/)
 
 🛠️ Installation & Setup
 
@@ -30,7 +30,7 @@ Follow these steps to run the project locally:
 
 Then open the local URL shown in your terminal
 
-💬 Support
+💬 [Support](https://discord.gg/A894S4gYYx)
 
 If you encounter issues, check:
 
